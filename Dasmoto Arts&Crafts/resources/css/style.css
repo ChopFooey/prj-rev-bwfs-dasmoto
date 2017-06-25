@@ -1,0 +1,34 @@
+body{
+  font-family: Helvetica,sans-serif;
+}
+/*Main Heading Style */
+.Heading h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+/*Sub-Heading Style*/
+h2{
+  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+/*Background Colors for Sub-Headings*/
+#br{
+  background-color: mediumspringgreen;
+}
+#fr{
+  background-color: lightcoral;
+}
+#pa{
+  background-color: skyblue;
+}
+/*Pricing Style*/
+#price{
+  font-weight: bold;
+  color: blue;
+}
