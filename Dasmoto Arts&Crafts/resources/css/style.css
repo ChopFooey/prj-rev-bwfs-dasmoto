@@ -28,7 +28,7 @@ h2{
   background-color: skyblue;
 }
 /*Pricing Style*/
-#price{
+.price{
   font-weight: bold;
   color: blue;
 }
