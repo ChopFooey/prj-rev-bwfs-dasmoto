@@ -1,6 +1,7 @@
 body{
   font-family: Helvetica,sans-serif;
 }
+
 /*Main Heading Style */
 .Heading h1 {
   font-family: Helvetica, sans-serif;
@@ -8,8 +9,9 @@ body{
   font-weight: bold;
   text-align: center;
   color: khaki;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  background-image: url(../images/pattern.jpeg);
 }
+
 /*Sub-Heading Style*/
 h2{
   font-family: Helvetica, sans-serif;
@@ -17,6 +19,7 @@ h2{
   font-weight: bold;
   color: white;
 }
+
 /*Background Colors for Sub-Headings*/
 #br{
   background-color: mediumspringgreen;
@@ -27,6 +30,7 @@ h2{
 #pa{
   background-color: skyblue;
 }
+
 /*Pricing Style*/
 .price{
   font-weight: bold;
